@@ -1,0 +1,277 @@
+.one{
+    background-image: url(header.jpg);
+    width: 100vw;
+    height: 100vh;
+    color: white; 
+    
+
+}
+
+*{
+    margin: 0;
+}
+
+#logo{
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+li{
+    padding-right: 40px;
+    text-decoration: none;
+    display: inline;
+    position: relative;
+    top:-15px;
+    left: 5px;
+}
+
+hr{
+    width: 100vw;
+    
+}
+
+#home{
+    color: yellowgreen;
+}
+
+ul{
+    float: right;
+}
+
+.two{
+    text-align: center;
+    position: relative;
+    top: 250px;
+    justify-content: center;
+    
+}
+
+button{
+    padding: 8px ;
+    border-radius: 30px;
+    background-color: yellowgreen;
+    border: 1px solid yellowgreen;
+    
+}
+
+#engage{
+    margin-top: 30px;
+    color: white;
+}
+
+#dramatically{
+    padding-left: 120px;
+    font-size: 60px;
+
+}
+
+#first-text{
+    font-size: 20px;
+}
+
+.three{
+   
+    height: 280px;
+    background-color: yellowgreen;
+    color: white;
+
+}
+
+#three-text h{
+    padding-top: 5px;
+}
+
+#apple img{
+height: 57px;
+width: 40px;
+}
+
+#apple1{
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.four{
+    height: 400px;
+    background-color: white; 
+}
+
+#mic img{
+    width: 400px ;
+    height: 250px;
+    border-radius: 200px;
+    margin-top: 100px;
+    margin-left: 280px;
+}
+
+#mic-text{
+    float: right;
+    margin-top: -250px;
+    margin-right: 200px;
+}
+
+#class{
+    font-size: 35px;
+}
+
+#mic-text2{
+    color: grey;
+    font-size: 20px;
+
+}
+
+#button2{
+    margin-top: 20px;
+    color: white;
+    
+}
+
+.five{
+    height: 370px;
+    background-color: black;
+}
+
+#phone-text{
+    margin-left: 80px;
+    padding-top: 55px;
+}
+
+#quality{
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+#phone-text2{
+    color: grey;
+    font-size: 25px;
+}
+
+#button3{
+    margin-top: 20px;
+    background-color: white;
+}
+
+#i-phone img{
+    width: 400px ;
+    height: 250px;
+    border-radius: 300px;
+    float: right;
+    position: relative;
+    top: -200px;
+    right: 280px;
+    
+}
+
+.six {
+    display: flex;
+}
+
+.six img{
+    width:450px;
+    height:180px;
+}
+
+#Unleash{
+        text-align: center;
+        
+}
+
+#unleash{
+    margin-top:-125px;
+    font-size: 40px;
+    color: white;
+}
+
+#Synergize{
+    text-align: center;
+
+}
+
+#synergize{
+    margin-top: -125px;
+    font-size: 40px;
+    color: white;
+
+}
+
+#Procastinate{
+    text-align: center;
+}
+
+#procastinate{
+    margin-top:-125px;
+    font-size: 40px;
+    color: white;
+
+}
+
+.seven{
+    width: 100vw;
+    height: 60vh;
+    background-color: white;
+
+}
+
+#pinn img{
+    width: 20px;
+    height: 40px;
+}
+#pinn1 {
+    text-align: center;
+    padding-top: 90px;
+    font-size: 25px;
+    color: gray;
+    
+}
+
+#button4{
+    color: white;
+    margin-top: 20px;
+}
+
+.eight{
+    width: 100vw;
+    height: 50vh;
+    background-color: yellowgreen;
+
+}
+
+#ppp img{
+    width: 50px;
+    height: 40px;
+}
+
+#contact{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+    color: gray;
+     
+}
+
+#email img{
+    width: 50px;
+    height: 40px;
+}
+
+.nine{
+    width: 100vw;
+    height: 20vh;
+    background-color: white;
+
+}
+
+#copyright{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+    color: gray;
+}   
+
+
+
+
